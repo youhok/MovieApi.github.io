@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #111317;
+}
+
+.Trending {
+    margin-top: 70px;
+}
+
+.card {
+
+    width: 190px;
+}
+
+.hello {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
